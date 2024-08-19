@@ -27,13 +27,13 @@ CNAPP Dashboard is a React-based web application that provides a comprehensive v
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/yourusername/cnapp-dashboard.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory: cd cnapp-dashboard
 
-3. Install dependencies:
+3. Install dependencies:  npm install
 
-4. Start the development server:
+4. Start the development server:  npm start
 
 5. Open your browser and visit `http://localhost:3000`
 
