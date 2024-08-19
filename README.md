@@ -13,10 +13,10 @@ CNAPP Dashboard is a React-based web application that provides a comprehensive v
 ## Screenshots
 
 ### Home Page
-![Home Page](../Home.png)
+![Home Page](./Home.png)
 
 ### CNAPP Dashboard
-![CNAPP Dashboard](../CNAPP-Dashboard.png)
+![CNAPP Dashboard](./CNAPP-Dashboard.png)
 
 ## Getting Started
 
