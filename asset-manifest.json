@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CNAPP-Dashboard/static/css/main.46d98f07.css",
+    "main.js": "/CNAPP-Dashboard/static/js/main.f2af1f5d.js",
+    "static/media/homepage-hero.gif": "/CNAPP-Dashboard/static/media/homepage-hero.543680d58aedd70f9d40.gif",
+    "static/media/logo.png": "/CNAPP-Dashboard/static/media/logo.1df4518e26f19f28d122.png",
+    "index.html": "/CNAPP-Dashboard/index.html",
+    "main.46d98f07.css.map": "/CNAPP-Dashboard/static/css/main.46d98f07.css.map",
+    "main.f2af1f5d.js.map": "/CNAPP-Dashboard/static/js/main.f2af1f5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d98f07.css",
+    "static/js/main.f2af1f5d.js"
+  ]
+}
